@@ -2,11 +2,11 @@
 [![RU](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)](https://github.com/r57zone/MiyooMiniPythonApp/blob/master/README.RU.md)
 ← Choose language | Выберите язык
 
-# MiyooMiniPythonApp
+# Miyoo Mini Python App
 Sample application for Miyoo Mini in Python 2.7 with [Onion OS](https://github.com/OnionUI/Onion). Lists, text output and scrolling status are implemented.
 
-## Setuo
-Extract the contents of `Source` to the `App` folder, on your console's flash drive.
+## Setup
+Extract the contents of `Source` to the `App` folder, on your console's sd card.
 
 ## Screenshots
 ![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/f16caaf1-3e4e-4c9c-964c-7867feba25d2)
