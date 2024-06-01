@@ -3,7 +3,7 @@
 ← Choose language | Выберите язык
 
 # MiyooMiniPythonApp
-Sample application for Miyoo Mini in Python 2.7 with [Onion OS](https://github.com/OnionUI/Onion). Lists, text output and scrolling status are implemented.
+Пример приложения для Miyoo Mini на Python 2.7 с [Onion OS](https://github.com/OnionUI/Onion). Реализованы списки, вывод текста и статус прокрутки.
 
-# Setuo
-Extract the contents of `Source` to the `App` folder, on your console's flash drive.
+# Настройка
+Распакуйте содержимое `Source` в папку `App`, на флешку вашей консоли.
