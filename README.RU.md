@@ -5,5 +5,9 @@
 # MiyooMiniPythonApp
 Пример приложения для Miyoo Mini на Python 2.7 с [Onion OS](https://github.com/OnionUI/Onion). Реализованы списки, вывод текста и статус прокрутки.
 
-# Настройка
+## Настройка
 Распакуйте содержимое `Source` в папку `App`, на флешку вашей консоли.
+
+## Скриншоты
+![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/f16caaf1-3e4e-4c9c-964c-7867feba25d2)
+![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/e085386c-9b40-45d9-89df-2dd3e2dd10a8)

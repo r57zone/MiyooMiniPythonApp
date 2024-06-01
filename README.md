@@ -5,5 +5,9 @@
 # MiyooMiniPythonApp
 Sample application for Miyoo Mini in Python 2.7 with [Onion OS](https://github.com/OnionUI/Onion). Lists, text output and scrolling status are implemented.
 
-# Setuo
+## Setuo
 Extract the contents of `Source` to the `App` folder, on your console's flash drive.
+
+## Screenshot
+![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/f16caaf1-3e4e-4c9c-964c-7867feba25d2)
+![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/e085386c-9b40-45d9-89df-2dd3e2dd10a8)
