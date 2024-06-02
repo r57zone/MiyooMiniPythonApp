@@ -15,5 +15,5 @@
 4. Ввести логин - `root` и пустой пароль, далее перейти в папку приложения - `cd /mnt/SDCARD/App/Sample/` и запустить `sh launch.sh`. Для завершения приложения нажмите `CTRL + C`.
 
 ## Скриншоты
-![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/25f46cb6-3772-4c43-9735-11b0d14ad47f)
-![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/3831623c-1a7f-4421-b505-1dfa3ff2c6e1)
+[![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/9be9a987-cc8a-4daf-8aef-d98441009a79)](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/25f46cb6-3772-4c43-9735-11b0d14ad47f)
+[![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/07a13b00-86a1-4e34-ae56-89e45c32e2cd)](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/3831623c-1a7f-4421-b505-1dfa3ff2c6e1)
