@@ -3,7 +3,7 @@
 ← Choose language | Выберите язык
 
 # Miyoo Mini Python App
-Пример приложения для Miyoo Mini на Python 2.7 с [Onion OS](https://github.com/OnionUI/Onion). Реализованы списки, вывод текста и статус прокрутки.
+Пример приложения для Miyoo Mini на Python 2.7 с [Onion OS](https://github.com/OnionUI/Onion). Реализованы списки, вывод текста, кнопки, индикатор выполнения и статус прокрутки.
 
 ## Настройка
 Распакуйте содержимое `Source` в папку `App`, на sd карту вашей консоли.
@@ -15,5 +15,5 @@
 4. Ввести логин - `root` и пустой пароль, далее перейти в папку приложения - `cd /mnt/SDCARD/App/Sample/` и запустить `sh launch.sh`. Для завершения приложения нажмите `CTRL + C`.
 
 ## Скриншоты
-![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/f16caaf1-3e4e-4c9c-964c-7867feba25d2)
-![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/e085386c-9b40-45d9-89df-2dd3e2dd10a8)
+![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/25f46cb6-3772-4c43-9735-11b0d14ad47f)
+![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/3831623c-1a7f-4421-b505-1dfa3ff2c6e1)

@@ -3,7 +3,7 @@
 ← Choose language | Выберите язык
 
 # Miyoo Mini Python App
-Sample application for Miyoo Mini in Python 2.7 with [Onion OS](https://github.com/OnionUI/Onion). Lists, text output and scrolling status are implemented.
+Sample application for Miyoo Mini in Python 2.7 with [Onion OS](https://github.com/OnionUI/Onion). Lists, text output, buttons, progress bar and scrolling status are implemented.
 
 ## Setup
 Extract the contents of `Source` to the `App` folder, on your console's sd card.
@@ -15,5 +15,5 @@ Extract the contents of `Source` to the `App` folder, on your console's sd card.
 4. Enter the login - `root` and a blank password, then go to the application folder - `cd /mnt/SDCARD/App/Sample/` and run `sh launch.sh`. Press `CTRL + C` to terminate the application.
 
 ## Screenshots
-![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/f16caaf1-3e4e-4c9c-964c-7867feba25d2)
-![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/e085386c-9b40-45d9-89df-2dd3e2dd10a8)
+![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/25f46cb6-3772-4c43-9735-11b0d14ad47f)
+![](https://github.com/r57zone/MiyooMiniPythonApp/assets/9499881/3831623c-1a7f-4421-b505-1dfa3ff2c6e1)
